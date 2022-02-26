@@ -1,0 +1,17 @@
+.myimg {
+    width: 90%;
+    height: 90%;
+    margin-top: 10px;
+    /* border: 1px solid purple; */
+    border-radius: 5px;
+}
+
+.myul {
+    list-style: disc;
+}
+
+.textnew {
+    color: purple;
+    font-weight: 900;
+    text-decoration: underline;
+}
